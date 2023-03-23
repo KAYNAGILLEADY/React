@@ -15,3 +15,4 @@ Vi grandes funcionalidades por aqui, por mais que seja simples de fazer, a api t
 isso pode ser utilizado em vários ambitos, um deles poderia ser uma situação de cadastro do usuário onde seria necessário inserir o endereço,
 então, quando fosse inserido o cep automaticamente os campos de rua, setor e outros seriam preenchidos por meio da busca dessa api.
 
+![home page](https://github.com/KAYNAGILLEADY/React/blob/main/src/assets/058b276f-d659-48be-9801-afb199760e97.png?raw=true)
